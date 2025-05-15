@@ -1,4 +1,4 @@
-#Bloowatch
+# Bloowatch
 
 Bloowatch is specialized software for watersports schools (surfing, kitesurfing, sailing, and diving) and outdoor activity providers (skiing, climbing, hiking, rafting) which integrates the organization management (agenda, staff, customers, financials) with the direct and online bookings.
 
